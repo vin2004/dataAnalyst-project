@@ -26,19 +26,6 @@ I'm committed to:
 - 🌐 Building Connections: I'm enthusiastic about connecting with fellow data professionals and learners.
 - 📚 Lifelong Learning: Continuously enhancing my data analytics skills to stay at the forefront of the field.
 
-## Final Presentation
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=f3fz7EyDryc">
-    <img src="https://github.com/Syed-Abid/KultureHire-Internship-Work/blob/main/Presentation%20Thumbnail.jpg" alt="Final Presentation Video">
-  </a>
-</p>
-
-## Founder Remarks
-
-<div align="center">
-  <img src="https://github.com/Syed-Abid/KultureHire-Internship-Work/blob/main/Founder%20Remarks.png" alt="Founder Remarks">
-</div>
 
 
 Whether you're a fellow data analyst, a potential employer, or simply intrigued by data analytics, this repository offers an opportunity to witness my journey of leveraging data to make informed decisions.
